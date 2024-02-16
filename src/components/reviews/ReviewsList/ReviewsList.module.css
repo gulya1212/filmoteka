@@ -1,0 +1,29 @@
+.List {
+  overflow-y: scroll;
+  height: 500px;
+}
+details > summary {
+  padding: 4px;
+  width: 100%;
+  background-color: #6e4be3de;
+  border: none;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;
+}
+
+details > p {
+  background-color: #eeeeee;
+  padding: 4px;
+  margin: 0;
+  box-shadow: 1px 1px 2px #bbbbbb;
+}
+.noReview {
+  margin: 0 auto;
+  margin-top: 50%;
+  width: 250px;
+
+  font-size: 30px;
+  font-weight: bold;
+  background-color: #fff;
+  box-shadow: 1px 1px 2px #bbbbbb;
+}

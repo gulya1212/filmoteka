@@ -1,0 +1,11 @@
+.item {
+  border-radius: 5px;
+  text-align: center;
+  box-shadow: 2px 2px 2px rgb(3, 22, 227);
+}
+.text {
+  padding: 10px;
+}
+.item img {
+  border-radius: 5px;
+}

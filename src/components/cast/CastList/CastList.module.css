@@ -1,0 +1,17 @@
+.List {
+  display: grid;
+  max-width: 400px;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  justify-content: center;
+  gap: 15px;
+  margin-bottom: 0;
+
+  padding: 0;
+  padding: 5px;
+  list-style: none;
+  margin-left: auto;
+  margin-right: auto;
+
+  overflow-y: scroll;
+  height: 500px;
+}
